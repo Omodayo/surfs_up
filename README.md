@@ -4,11 +4,12 @@
 The purpose of this analysis is to use SQLite and SQLAlchemy to analyse weather (precipitation) data set to help a particular investor avoid previous mistake (weather impact omission) and assess chances of successfully investing in a 'Surf and Shake' shop in a particular island to serve the local with surf boards and ice cream.  
 
 ## Analysis Result
-* Analysis shows that a large chunck of the company's workforce is due for retirement
-* Senior employees such as snr. staff, snr. engineer, technique leader and managers make up about 46% of the retiring group, and
-* Junior staff such as engineer, staff, and assistant engineer make up 54% of the retiring group
-* 1,549 (about 2%)retiring employee,whose birth dates are between January 1, and December 31, 1965.qualifies for mentorship eligibility
+* June is a slightly hotter month than December as reflected in the average temparature for both moth - 75 for June and 71 for December
+* Maximum temparature attained in June (85) is slightly more than that recorded for December (83)
+* Distribution of temparature from the mean temparature for both monthe is the same with temparatures in June accross all stattistics a bit higher than in December
 
-## Analysis Summarry
-* 90,398 roles will need to be filled
-* There are not enough retirement-ready employees to mentor the next generation, this group make up about 2% of the retirement-ready employees.
+## Analysis Summary
+The temparature data analysis for both months on a high level shows that there isn't much difference in temparature for both months and inconclusive to determine weather impact. To get to a conclusive result, more queries need to be performed, such as;
+* Precipitaton queries
+* Statistical queries for more months
+* Queries of sales data for such investment over the years etc
